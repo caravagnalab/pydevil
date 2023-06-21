@@ -1,5 +1,6 @@
-#DEVIL
-An python package that exploits PyTorch and Pyro to perform fast and scalable single cell differential expression analysis
+# DEVIL
+
+A python package that exploits PyTorch and Pyro to perform fast and scalable single cell differential expression analysis
 
 ![](logo.png)
 
