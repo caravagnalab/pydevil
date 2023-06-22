@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pydevil"
 version = "0.1.0"
-description = "An R package to perform fast and scalable single cell differential expression analysis"
+description = "An python package to perform single cell differential expression analysis"
 authors = ["Salvatore Milite"]
 license = "MIT"
 readme = "README.md"
